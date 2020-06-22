@@ -1,1 +1,2 @@
 code for beginners
+System.setproperty("webdriver.chrome.driver","chrome driver path");
